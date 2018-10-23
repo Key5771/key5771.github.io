@@ -2,7 +2,7 @@
 layout: post
 title: "Future"
 description: Future
-image: '/assets/img/future.jpg'
+image: '/assets/img/future1.jpg'
 category: 'Future'
 tags:
 - app
