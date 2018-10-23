@@ -1,1 +1,38 @@
-theme: jekyll-theme-time-machine
+# Site Settings
+title: Key
+email: ksj57715@gmail.com
+description: Introduce Me
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://key5771.github.io" # the base hostname & protocol for your site
+
+
+# User Settings
+username: Kim kihyun
+user_description: 제주대학교 컴퓨터공학전공 2015108180 김기현
+
+
+# Social Media
+# Remove the item if you don't need it
+github_username: key5771
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

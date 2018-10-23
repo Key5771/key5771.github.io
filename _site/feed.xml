@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Key</title>
+    <description>Introduce Me</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 Oct 2018 14:31:41 +0900</pubDate>
+    <lastBuildDate>Tue, 23 Oct 2018 14:31:41 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Future</title>
+        <description>&lt;h2 id=&quot;배우고-싶은-언어&quot;&gt;배우고 싶은 언어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Kotlin - android 개발&lt;br /&gt; - 안드로이드의 경우 Java의 영향력이 강하지만 최근에 Kotlin이 떠오르는 언어가 됨으로써 배워보고 싶어졌다.&lt;/li&gt; &lt;li&gt;Swift - ios개발&lt;br /&gt; - 아이폰 앱 개발을 위해 맥북을 구매했으므로 Swift는 꼭 배워보고 싶은 언어이다.&lt;/li&gt; &lt;li&gt;Python - 쉬운 코딩&lt;br /&gt; - 다른 언어에 비해 쉽게 코딩할 수 있다는 점이 매력인 Python을 활용해 코딩과 친해지고 싶다. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;진출하고-싶은-분야&quot;&gt;진출하고 싶은 분야&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;보안&lt;br /&gt; - 요즘 시대에 가장 중요한 보안이라는 분야에 진출해서 사람들에 정보를 보호하고 지켜주는 화이트해커가 되고 싶다.&lt;/li&gt; &lt;li&gt;앱 개발&lt;br /&gt; - 보안 뿐만 아니라 앱 개발을 통해 기존의 만들어진 앱을 보완하거나...</description>
+        <pubDate>Sat, 20 Oct 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero/</link>
+        <guid isPermaLink="true">http://localhost:4000/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero/</guid>
+        
+        <category>app</category>
+        
+        <category>android</category>
+        
+        <category>ios</category>
+        
+        
+        <category>Future</category>
+        
+      </item>
+    
+      <item>
+        <title>MATLAB</title>
+        <description>&lt;h2 id=&quot;matlab&quot;&gt;MATLAB&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;MATLAB(매트랩)은 MathWorks 사에서 개발한 수치 해석 및 프로그래밍 환경을 제공하는 공학용 소프트웨어이다. 행렬을 기반으로 한 계산 기능을 지원하며, 함수나 데이터를 그림으로 그리는 기능 및 프로그래밍을 통한 알고리즘 구현 등을 제공한다. MATLAB은 수치 계산이 필요한 과학 및 공학 분야에서 다양하게 사용된다. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;matlab-활용&quot;&gt;MATLAB 활용&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;MATLAB을 활용한 통계시스템&lt;/li&gt; &lt;li&gt;MATLAB을 활용한 안면인식&lt;/li&gt; &lt;li&gt;MATLAB은 앞서 설명한 것처럼 다양한 분야에서 사용 가능하여 가능성이 크다고 볼 수 있다. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;매트랩을-활용한-나의-활동&quot;&gt;매트랩을 활용한 나의 활동&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;칼만필터를 적용한 블루투스 RSSI값 측정&lt;/li&gt; &lt;li&gt;시간당 RSSI값 변화량 그래프 출력&lt;/li&gt; &lt;li&gt;3차원 그래프 적용 &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt; &lt;/ul&gt;...</description>
+        <pubDate>Fri, 19 Oct 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor/</link>
+        <guid isPermaLink="true">http://localhost:4000/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor/</guid>
+        
+        <category>Matrix</category>
+        
+        <category>Three Dimension Graph</category>
+        
+        
+        <category>MATLAB</category>
+        
+      </item>
+    
+      <item>
+        <title>2015108180 김기현 자기소개</title>
+        <description>&lt;h1 id=&quot;자기소개&quot;&gt;자기소개&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;김기현&lt;/li&gt; &lt;li&gt;kkh5771@naver.com&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;학교&quot;&gt;학교&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;제주 동초등학교 졸업&lt;/li&gt; &lt;li&gt;제주 동중학교 졸업&lt;/li&gt; &lt;li&gt;오현고등학교 졸업&lt;/li&gt; &lt;li&gt;제주대학교 컴퓨터공학전공 재학&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;학습중인-언어&quot;&gt;학습중인 언어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;C#&lt;/li&gt; &lt;li&gt;JAVA&lt;/li&gt; &lt;li&gt;MATLAB&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;현재활동&quot;&gt;현재활동&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;System Software 연구실 소속&lt;/li&gt; &lt;li&gt;18년 컴퓨터공학전공 학생회&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;포크&quot;&gt;포크&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://github.com/Key5771/MatlabFunc&quot;&gt;MatlabFunc&lt;/a&gt;&lt;br /&gt; - 칼만필터에 대한 실험결과를 위해 시작한 매트랩에 대하여 좀 더 깊은 지식을 얻기위해 포크함 &lt;br /&gt; - 매트랩에 대한 코드 연습 &lt;br /&gt; - 버그나 오류에 대한 피드백 &lt;br /&gt;&lt;br /&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://github.com/Key5771/Java&quot;&gt;Java&lt;/a&gt;&lt;br /&gt; - 자바 공부를 위한 알고리즘 연습 &lt;br /&gt; - 자바 코딩 연습 &lt;br /&gt; - 안드로이드 프로그래밍 연습&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;...</description>
+        <pubDate>Thu, 18 Oct 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/seja-bem-vindo/</link>
+        <guid isPermaLink="true">http://localhost:4000/seja-bem-vindo/</guid>
+        
+        
+        <category>Introduce</category>
+        
+      </item>
+    
+  </channel>
+</rss>
