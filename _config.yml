@@ -5,22 +5,18 @@ description: Introduce Me
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://key5771.github.io" # the base hostname & protocol for your site
 
-
 # User Settings
 username: Kim kihyun
-user_description: 제주대학교 컴퓨터공학전공 2015108180 김기현
-
+user_description: 공부가 하기 싫지만 공부하는 iOS 개발자
 
 # Social Media
 # Remove the item if you don't need it
 github_username: key5771
 
-
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-
 
 # Plugins
 gems:
@@ -35,4 +31,4 @@ links:
     url: /about/
 
 # Exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+exclude: ["package.json", "src", "node_modules"]
