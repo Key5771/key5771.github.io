@@ -1,27 +1,27 @@
 [
   
     {
-      "title"    : "Future",
-      "tags"     : "app, android, and ios",
-      "categories" : "Future",
+      "title"    : "iOS 공부 공간",
+      "tags"     : "iOS, Apple, and WWDC",
+      "categories" : "iOS",
       "url"      : "/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero/",
-      "date"     : "10/20/2018"
+      "date"     : "06/13/2023"
     } ,
   
     {
-      "title"    : "MATLAB",
-      "tags"     : "Matrix and Three Dimension Graph",
-      "categories" : "MATLAB",
+      "title"    : "개인 공간",
+      "tags"     : "개발자 and 일상",
+      "categories" : "개인 공간",
       "url"      : "/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor/",
-      "date"     : "10/19/2018"
+      "date"     : "06/13/2023"
     } ,
   
     {
-      "title"    : "2015108180 김기현 자기소개",
+      "title"    : "iOS 개발자 김기현",
       "tags"     : "",
       "categories" : "Introduce",
       "url"      : "/seja-bem-vindo/",
-      "date"     : "10/18/2018"
+      "date"     : "06/13/2023"
     } 
   
 ]
