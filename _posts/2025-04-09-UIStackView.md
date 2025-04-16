@@ -1,6 +1,7 @@
 ---
 title: "UIStackView"
 tags: [iOS]
+categories: [Study]
 layout: single
 author_profile: true
 ---

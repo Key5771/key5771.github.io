@@ -1,6 +1,7 @@
 ---
 title: "Property Wrapper"
 tags: [Swift]
+categories: [Study]
 layout: single
 author_profile: true
 ---
