@@ -8,6 +8,7 @@ author_profile: true
 
 ### 유니버셜 링크(Universal Link)
 - iOS에서 딥링크를 구현하는 방법 중 하나로 <b>웹에서 앱을 호출하는 기능</b>이 필요할 때 사용
+<br>
 `딥링크(DeepLink) : 특정 주소나 값을 입력하면 앱이 실행되거나 앱 내 특정 페이지에 랜딩할 수 있는 링크`
 
 1. URI 스킴 : 앱에 URI 스킴(Scheme) 값을 등록하여 딥링크 사용
@@ -46,7 +47,7 @@ Universal Link를 사용하기 위해서는 도메인이 필요
 ```
 
 #### apple-app-site-association 파일
-```JSON
+```json
 iOS 13 이상
 {
     "applinks": {
@@ -127,8 +128,8 @@ func application(_ application: UIApplication,
 }
 ```
 
-앱이 Scene에 참여했고, 앱이 실행 중이 아닌 경우, 시스템은 실행 후에 scene( _:willConnectTo:options:) 메소드에 대한 범용 링크를 전달하고, 앱이 실행 중이거나 메모리에서 일시 중단된 동안 유니버셜 링크가 탭 되면 scene( _:continue:)에 전달
-```Swift
+앱이 Scene에 참여했고, 앱이 실행 중이 아닌 경우, 시스템은 실행 후에 `scene( _:willConnectTo:options:)` 메소드에 대한 범용 링크를 전달하고, 앱이 실행 중이거나 메모리에서 일시 중단된 동안 유니버셜 링크가 탭 되면 `scene( _:continue:)`에 전달
+```swift
 func scene(_ scene: UIScene, willConnectTo
            session: UISceneSession,
            options connectionOptions: UIScene.ConnectionOptions) {
